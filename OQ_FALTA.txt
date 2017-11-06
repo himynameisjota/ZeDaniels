@@ -1,0 +1,7 @@
+A entrega era apenas o cronograma, com as seguintes informações: atividades e sua duração, data de início, data de término e predecessoras, ou seja, 4 itens de 25 pontos cada. Vocês esqueceram de dizer qual atividade é predecessora da outra e a duração (-50 pontos).
+
+Tabela de reviões 
+
+Requisitos associados" nos fluxos de casos de uso estão incompletos em alguns lugares e incorretamente identificados em outros (- 7 pontos).
+
+Colocar logo, arrumar os CRUDS, fluxogramas. tirar print das telas. imputlistenet= ação do botão
